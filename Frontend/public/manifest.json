@@ -1,0 +1,22 @@
+{
+    "name": "Build Communication",
+    "short_name": "Build Communication",
+    "start_url": ".",
+    "background_color":"#fff",
+    "theme_color": "#f67c92",
+    "display": "standalone",
+    "icons":[
+        {
+            "src":"logo192.png",
+            "sizes":"192x192",
+            "type":"image/png"
+
+        },
+        {
+              "src":"logo512.png",
+              "sizes":"512x512",
+              "type":"image/png"
+        }
+
+    ]
+}
